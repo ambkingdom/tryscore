@@ -2,10 +2,12 @@
   "name": "tryscore",
   "main": "tryscore",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "TRYSCORE.COM เป็นเว็บที่มีบริการเดิมพันออนไลน์ครบวงจร ไม่ว่าจะเป็นแทงบอลออนไลน์ คาสิโนออนไลน์ ราคาดีที่สุด เราคือ TRYSCORE.COM เว็บตรงจากบริษัทแม่ ไม่ผ่านเอเย่นต์ หมดปัญหาเรื่องการโกง",
   "keywords": [
-    "UFABET","SBOBET","ISC888"
+    "UFABET",
+    "SBOBET",
+    "ISC888"
   ],
   "repository": "https://github.com/ambkingdom/tryscore",
   "license": "MIT",
